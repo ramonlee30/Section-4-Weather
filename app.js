@@ -1,4 +1,4 @@
-let APIkey = '23cfcf98d26d55db92e1f501489be10f'
+let APIkey = '30f5b48c9dd571404df84e67bbfa39b4'
 
 let cities = ['orlando', 'new york', 'san francisco', 'miami', 'chicago'];
 
