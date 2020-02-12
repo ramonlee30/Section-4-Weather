@@ -14,37 +14,42 @@ body{
     grid-gap: 1em;
     font-size: 20px;
     font-family: 'Oswald', sans-serif;
+    box-shadow: 1px 2px 4px 5px #444;
 }
 
 .holder{
-
+     text-align: center;
 }
 
 .entry{
+    text-align: center;
     background: rgba(59, 74, 107, .4);
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 #entryHolder{
-
+    font-size: 25px;
 }
 
 #date{
-
+   margin-top: 15px;
 }
 
 #temp{
-
+    margin-top: 15px;
 }
 
 #content{
-
+   margin-top: 15px;
 }
 
 .headline {
-
+    font-size: 35px; 
+    margin-top: 15px;
 }
 .title{
-
+    background: #395C6B;
 }
 
 /*  Basic Styling To Override Default For Basic HTML Elements */
